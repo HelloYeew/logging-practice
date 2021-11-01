@@ -1,0 +1,11 @@
+2021-11-02 01:03:46,220 [root] - INFO: Action started
+2021-11-02 01:03:46,220 [root] - WARNING: No value in database. Use default value.
+2021-11-02 01:03:46,220 [root] - Level 35: Custom log here.
+2021-11-02 01:03:46,220 [root] - ERROR: Strlen want 'str', get 'None' instead
+2021-11-02 01:03:46,220 [root] - CRITICAL: Game shutdown: 'FILE_MISSING'
+2021-11-02 01:03:46,220 [awesome_logger] - DEBUG: Getting data from database
+2021-11-02 01:03:46,220 [awesome_logger] - INFO: Action started
+2021-11-02 01:03:46,220 [awesome_logger] - WARNING: No value in database. Use default value.
+2021-11-02 01:03:46,220 [awesome_logger] - Level 35: Custom log here.
+2021-11-02 01:03:46,220 [awesome_logger] - ERROR: Strlen want 'str', get 'None' instead
+2021-11-02 01:03:46,220 [awesome_logger] - CRITICAL: Game shutdown: 'FILE_MISSING'
